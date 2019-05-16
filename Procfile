@@ -1,1 +1,1 @@
-worker:./config.json
+web: node index.js
