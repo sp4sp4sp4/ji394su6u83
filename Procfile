@@ -1,1 +1,1 @@
-work:node(FILE).js
+worker:node(FILE).js
