@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const config = require("./config.json");
 const bot = new Discord.Client();
-const token = process.env.BOT_TOKEN
+
 
 bot.on('ready', () => {
   console.log(`成功登入 ${bot.user.tag}!`);
