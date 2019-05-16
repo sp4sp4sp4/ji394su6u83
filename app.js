@@ -187,4 +187,4 @@ var arr=arr.join('');
 });
 
 bot.login(config.token);
-clinet.login(process.env.BOT_TOKEN);
+
