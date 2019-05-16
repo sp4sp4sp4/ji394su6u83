@@ -1,1 +1,1 @@
-worker:config.js
+worker:./config.json
