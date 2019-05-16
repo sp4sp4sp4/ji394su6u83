@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const config = require("./config.json");
 const bot = new Discord.Client();
-
+$ heroku config:set NODE_MODULES_CACHE=false
 
 bot.on('ready', () => {
   console.log(`成功登入 ${bot.user.tag}!`);
