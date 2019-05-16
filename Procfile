@@ -1,1 +1,1 @@
-worker:node(FILE).js
+worker: python3 bot.py
