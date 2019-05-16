@@ -1,1 +1,1 @@
-worker: python3 config.js
+worker: python3 app.js
